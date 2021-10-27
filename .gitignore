@@ -1,0 +1,25 @@
+## gradle ##
+.gradle
+build/
+
+gradle-app.setting
+
+!gradle-wrapper.jar
+
+### IntelliJ ###
+*.iml
+
+## directory based
+.idea/
+
+## specific IntelliJ plug-in files
+
+*/out/
+/out/
+
+.idea_modules
+
+## miscellanous ##
+results
+log/
+
