@@ -10,6 +10,7 @@ target/
 
 ## gradle ##
 .gradle
+.gradle/
 build/
 
 gradle-app.setting
@@ -23,6 +24,7 @@ gradle-app.setting
 *.iml
 
 ## directory based
+.idea/gradle.xml
 .idea/
 
 ## specific IntelliJ plug-in files
